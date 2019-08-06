@@ -300,7 +300,7 @@ print(plot4)
 
 ![](PA1_template_files/figure-html/plot4-1.png)<!-- -->
 
-We can see from the plot that there isn't too much difference. Although the mean and median have changed from the original dataset ann, also, there is a narrower interquarte range, the difference not appear to be meaningful. This could relate to the fact that the NAs in the original dataset only accounted for the 13.11% of the step data.
+We can see from the plot that there isn't too much difference. Although the mean and median have changed from the original dataset, and also, there is a narrower interquartile range, the difference do not appear to be meaningful. This could relate to the fact that the NAs in the original dataset only accounted for the 13.11% of the step data.
 
 ### **Are there differences in activity patterns between weekdays and weekends?**
 
